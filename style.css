@@ -1,0 +1,41 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-size: cover;
+  color: rgb(247, 252, 252);
+  padding-top: 10%;
+  padding-bottom: 10%;
+  height: 80%;
+}
+#pemain {
+}
+
+#informasi {
+}
+ul {
+  list-style-type: none;
+}
+li {
+  list-style-type: none;
+}
+
+@media (max-width: 500px) {
+  .table thead {
+    display: none;
+  }
+  .table,
+  .table tbody,
+  .table tr,
+  table td {
+    display: block;
+    width: 100%;
+  }
+  .table tr {
+    margin-bottom: 15px;
+  }
+  .table. td {
+    text-align: right;
+    padding-left: 10%;
+    text-align: right;
+    position: relative;
+  }
+}
